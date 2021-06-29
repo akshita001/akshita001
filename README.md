@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![Akshita](https://github.com/akshita001/ProfileSummary/blob/main/images/Akshita.png)
 
 <!--
 **akshita001/akshita001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### Hi Everybody 👋 This is Akshita's Den!!
 -->
