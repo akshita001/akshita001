@@ -1,5 +1,5 @@
 
-This is Akshita and I welcome you all to my GitHub space. 
+This is **Akshita** and I welcome you all to my GitHub space. 
 
 I am born and brought up in India and migrated to Australia along with my parents under prestigious Global Talent program. I am currently in Year 8 and studying at Willoughby Girls High School, Sydney. (One of the leaders in women's education)
 
@@ -12,6 +12,7 @@ We thrive to become great individuals by contributing to our community and build
 Some of my accomplishments so far can be referred as the following:
 
 - My Academic accomplishments:
+
 - My Extracurricular accomplishments:
 - My personal interests, qualities and other contributions:
 
