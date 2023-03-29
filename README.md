@@ -18,15 +18,10 @@ Some of my accomplishments so far can be referred as the following:
 ![Akshita_ASSET](https://github.com/akshita001/akshita001/blob/main/images/Akshita_ASSET_2021-22.png)
 
 
-**My Extracurricular accomplishments**
-
-![Akshita_ExtraCurricular](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/ReadMe.Md)
+**My [Extracurricular accomplishments](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/ReadMe.Md)**
 
 
-**My personal interests, qualities and other contributions**
-
-Please refer to my ![Medium Blogs](https://mishra-akszita.medium.com/) for some of amazing writing habbits which I enjoy in passtime.
-
+**My personal interests, qualities and other contributions - [My Medium Blogs](https://mishra-akszita.medium.com/)** Please refer to my for some of amazing writing habbits which I enjoy in passtime.
 
 
 <!--
