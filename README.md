@@ -1,4 +1,7 @@
 
+This is Akshita and I welcome you all to my GitHub space. 
+
+I am born and brought up in India and migrated to Australia along with my parents under prestigious Global Talent program. I am currently in Year 8 and studying at Willoughby Girls High School, Sydney.
 
 ![Akshita](https://github.com/akshita001/ProfileSummary/blob/main/images/Akshita.png)
 
