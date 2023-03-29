@@ -13,10 +13,19 @@ Some of my accomplishments so far can be referred as the following:
 
 - My Academic accomplishments:
 
+![Akshita_AEC](https://github.com/akshita001/akshita001/blob/main/images/Akshita_IEC_Feb2023.png)
+
+![Akshita_ASSET](https://github.com/akshita001/akshita001/blob/main/images/Akshita_ASSET_2021-22.png)
+
 - My Extracurricular accomplishments:
+
+![Akshita_ExtraCurricular](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/ReadMe.Md)
+
 - My personal interests, qualities and other contributions:
 
-![Akshita](https://github.com/akshita001/ProfileSummary/blob/main/images/Akshita.png)
+Please refer to my ![Medium Blogs](https://mishra-akszita.medium.com/) for some of amazing writing habbits which I enjoy in passtime.
+
+
 
 <!--
 **akshita001/akshita001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
